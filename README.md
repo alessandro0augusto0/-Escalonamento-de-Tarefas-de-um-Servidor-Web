@@ -25,7 +25,7 @@ Antes de rodar o projeto, você deve vincular as bibliotecas necessárias para g
 1. Adicione o arquivo `jfreechart-1.0.19.jar` ao seu projeto.
 2. Adicione o arquivo `jcommon-1.0.23.jar` ao seu projeto.
 
-Esses arquivos estarão disponíveis no repositório, na pasta `libs/`.
+Esses arquivos estarão disponíveis no repositório, na raíz do repositório na pasta `jar`.
 
 ### Passo 2: Rodar o Servidor
 
